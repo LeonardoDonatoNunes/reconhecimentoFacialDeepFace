@@ -5,7 +5,7 @@ Esse é um projeto pessoal para testar a biblioteca __DeepFace__ para reconhecim
 
 ## Estrutura do projeto
 
-A execução do projeto está detalhada no arquivo [reconhecimentoFacial.ipynb](https://nbviewer.org/github/LeonardoDonatoNunes/reconhecimentoFacialDeepFace/blob/main/reconhecimentoFacialLeonardo.ipynb) onde o projeto está explicado passo a passo e pode ser executado. O arquivo [reconhecer_leonardo.py](./reconhecer_leonardo.py) foi utilizado para fazer as marcações nas imagens para o REDME, vale a pena conferir 😁!  
+A execução do projeto está detalhada no arquivo [reconhecimentoFacial.ipynb](https://nbviewer.org/github/LeonardoDonatoNunes/reconhecimentoFacialDeepFace/blob/main/reconhecimentoFacialLeonardo.ipynb){:target="_blank"} onde o projeto está explicado passo a passo e pode ser executado. O arquivo [reconhecer_leonardo.py](./reconhecer_leonardo.py) foi utilizado para fazer as marcações nas imagens para o REDME, vale a pena conferir 😁!  
 
     .
     ├── imagens
